@@ -1,0 +1,7 @@
+﻿  Servercpp.cpp
+d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(112): error C2664: 'DWORD GetLogicalDriveStringsA(DWORD,LPSTR)': cannot convert argument 2 from 'WCHAR *' to 'LPSTR'
+  d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(112): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(118): error C2664: 'BOOL GetDiskFreeSpaceExA(LPCSTR,PULARGE_INTEGER,PULARGE_INTEGER,PULARGE_INTEGER)': cannot convert argument 1 from 'WCHAR *' to 'LPCSTR'
+  d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(118): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(126): error C2664: 'int lstrlenA(LPCSTR)': cannot convert argument 1 from 'WCHAR *' to 'LPCSTR'
+  d:\study\class\lập trình mạng\homework\home 1\homework1\homework1\servercpp.cpp(126): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
